@@ -6,5 +6,5 @@ Source code may useful for educational purposes and testing your basic PHP/MYSQL
 
 ## Folders
 
-web --- Contains all codes for the web application
+web --- Contains all codes for the web application \n
 db  --- Contains database and tablese queries plus sample data
